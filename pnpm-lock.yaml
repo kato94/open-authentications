@@ -15,6 +15,7 @@ specifiers:
   '@unocss/nuxt': ^0.45.26
   axios: ^1.1.2
   nuxt: 3.0.0-rc.11
+  pinia: ^2.0.23
   pug: ^3.0.2
   sass: ^1.55.0
   typescript: ^4.8.4
@@ -37,6 +38,7 @@ devDependencies:
   '@unocss/nuxt': 0.45.26_vite@3.1.4+webpack@5.74.0
   axios: 1.1.2
   nuxt: 3.0.0-rc.11_3eyjpkldgso62bit6zz6w46xwu
+  pinia: 2.0.23_bfjwoga25wxjazzogo7o372nwq
   pug: 3.0.2
   sass: 1.55.0
   typescript: 4.8.4
