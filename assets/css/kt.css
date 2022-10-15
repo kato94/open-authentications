@@ -1,0 +1,11 @@
+.openLoginButtons-enter-active,
+.openLoginButtons-leave-active {
+  transition: height 0.5s ease;
+  height: 21.5rem;
+}
+
+.openLoginButtons-enter-from,
+.openLoginButtons-leave-to {
+  opacity: 0;
+  height: 0;
+}
