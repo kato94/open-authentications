@@ -23,7 +23,7 @@ const props = defineProps({
 div
   VField(:name='name', v-slot='{ field, meta, errors }')
     .flex.px-sm.py-xs.bg-white.rounded-1.shadow-1xl
-      span(:class='leftIcon').w-7.h-7.inline-block.mr-2
+      span(:class='leftIcon').w-7.h-7.inline-block.mr-2.c-gray-700
       input.w-full.bg-transparent.outline-none(v-bind='field', :placeholder='placeholder', :type='type')
     div(class="min-h-1.5rem")
       transition(name='fade')
